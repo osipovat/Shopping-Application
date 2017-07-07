@@ -1,0 +1,15 @@
+username,,
+password,,
+First name,,
+Last name,,
+City,,
+Street,,
+email,,
+phone num,,
+credit card num,,
+expiry date,,
+SHOPPING CART,,
+product category,product name,quantity
+INVOICES,,
+tracking number,list of products,total purchases
+,category: productName: 4,
